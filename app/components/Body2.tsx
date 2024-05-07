@@ -3,6 +3,7 @@ export default function Body2() {
         <div className="flex flex-col md:flex-row items-center md:items-start">
 
             <div className="mb-4 md:mb-0 md:mr-4">
+                <p>YOGA CLASSES</p>
                 <img src="/img/body2.svg" alt="Ícone" className="w-60 h-60 md:w-96 md:h-96" />
             </div>
 
