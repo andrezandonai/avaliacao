@@ -1,7 +1,7 @@
 export default function Body3() {
     return (
         <div className="flex flex-col md:flex-row items-center md:items-start">
-
+<p>GALLERY</p>
             <div className="mb-4 md:mb-0 md:mr-4">
                 <img src="/img/body3.svg" alt="Ícone" className="w-60 h-60 md:w-96 md:h-96" />
             </div>
